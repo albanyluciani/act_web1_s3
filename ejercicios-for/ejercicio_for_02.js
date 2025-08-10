@@ -12,17 +12,17 @@
 
 // Parte ascendente
 for (let i = 1; i <= 5; i++) {
-  let linea = "";
+  let simbolo = "";
   for (let j = 1; j <= i; j++) {
-    linea += "*";
+    simbolo += "*";
   }
   console.log(linea);
 }
 // Parte descendente
 for (let i = 4; i >= 1; i--) {
-  let linea = "";
+  let simbolo = "";
   for (let j = 1; j <= i; j++) {
-    linea += "*";
+    simbolo += "*";
   }
   console.log(linea);
 }
