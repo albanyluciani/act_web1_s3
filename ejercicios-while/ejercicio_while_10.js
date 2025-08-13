@@ -1,3 +1,1 @@
-// Ejercicio While 10: Procesador de Calificaciones
-// Usa while para ingresar calificaciones de estudiantes (termina con -1). 
-// Calcula el promedio, la nota más alta y más baja.
+// Desarrolla un programa que use un ciclo while para procesar calificaciones de estudiantes. Debe continuar pidiendo calificaciones hasta que se ingrese -1, luego calcular y mostrar el promedio, la calificación más alta y más baja.
